@@ -9,5 +9,5 @@ to generate a random password using javascript
 
 ## website
 https://chriscarv.github.io/password-generator/
-![html](Develop/assets/img/app.png)
-![html](Develop/assets/img/app-2.png)
+![html](/assets/img/app.png)
+![html](/assets/img/app-2.png)
